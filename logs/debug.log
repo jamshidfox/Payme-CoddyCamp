@@ -1,0 +1,7124 @@
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T09:26:23.704Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T09:26:57.436Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T09:27:09.282Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T09:33:03.890Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T09:33:38.673Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T09:33:53.676Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Method not found.',
+  level: 'error',
+  timestamp: '2022-01-28T09:33:57.349Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T09:34:38.883Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Method not found.',
+  level: 'error',
+  timestamp: '2022-01-28T09:34:48.494Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T09:35:01.637Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Method not found.',
+  level: 'error',
+  timestamp: '2022-01-28T09:35:04.387Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T09:35:26.638Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'callback is not a function',
+  level: 'error',
+  timestamp: '2022-01-28T09:35:35.673Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T09:36:37.975Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'callback is not a function',
+  level: 'error',
+  timestamp: '2022-01-28T09:36:43.623Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T10:30:47.337Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T10:30:47.361Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T10:30:47.385Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T10:31:30.796Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T10:31:30.872Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T10:31:30.970Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T10:40:42.111Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T10:40:42.151Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T10:40:42.194Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T10:42:24.050Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T10:42:24.075Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T10:42:24.099Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T10:45:12.956Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T10:45:12.983Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T10:45:13.011Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:45:18.819Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:45:42.393Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:49:13.233Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:50:06.911Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T10:52:09.974Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T10:52:09.996Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T10:52:10.019Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:53:37.276Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T10:53:53.256Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T10:53:53.279Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T10:53:53.305Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:53:56.992Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:53:57.206Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cb45b2eb06ab89723ba9',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'User id is required',
+  level: 'error',
+  timestamp: '2022-01-28T10:53:57.209Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cb45b2eb06ab89723ba9',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T10:54:33.335Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T10:54:33.356Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T10:54:33.379Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:54:35.806Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:54:36.004Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cb6be3c0d8cc99c99446',
+      code: '666666'
+    }
+  }
+}
+{
+  message: "Performing an update on the path '_id' would modify the immutable field '_id'",
+  level: 'error',
+  timestamp: '2022-01-28T10:54:36.104Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cb6be3c0d8cc99c99446',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T10:55:39.869Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T10:55:39.890Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T10:55:39.911Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:55:42.361Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:55:42.660Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cbaef58ceccc31054185',
+      code: '666666'
+    }
+  }
+}
+{
+  message: "Performing an update on the path '_id' would modify the immutable field '_id'",
+  level: 'error',
+  timestamp: '2022-01-28T10:55:42.760Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cbaef58ceccc31054185',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T10:55:58.283Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T10:55:58.305Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T10:55:58.330Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:56:00.796Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:56:00.993Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cbc01efc5153e447160a',
+      code: '666666'
+    }
+  }
+}
+{
+  message: "Performing an update on the path '_id' would modify the immutable field '_id'",
+  level: 'error',
+  timestamp: '2022-01-28T10:56:01.087Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cbc01efc5153e447160a',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T10:57:32.874Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T10:57:32.896Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T10:57:32.919Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:57:38.680Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T10:57:38.808Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cc224e2deabb3fb1be39',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T11:04:00.218Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T11:04:00.246Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T11:04:00.275Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:05:01.897Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:05:03.127Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cdde648bafbb2d2f3e64',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:05:03.415Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'sanjar_id' } }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:05:30.200Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:05:36.393Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cdfe648bafbb2d2f3e69',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:05:39.499Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'sanjar_id' } }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T11:10:21.674Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T11:10:21.696Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T11:10:21.718Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:12:20.060Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:12:20.284Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cf949610eee33a1575dd',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'cardObj.save is not a function',
+  level: 'error',
+  timestamp: '2022-01-28T11:12:20.431Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cf949610eee33a1575dd',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T11:13:01.610Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T11:13:01.638Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T11:13:01.665Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:13:04.221Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'sanjar_id'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:13:05.106Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cfc0e62b82cce62dfcb5',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:13:05.478Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'sanjar_id' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:13:05.517Z',
+  label: 'payme',
+  metadata: { request: { card_id: '61f3cdde648bafbb2d2f3e64' } }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T11:32:25.851Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T11:32:25.881Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T11:32:25.909Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:37:52.210Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:37:52.736Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '61f3d5907c540e4d1c34ba67',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:37:52.948Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:37:52.986Z',
+  label: 'payme',
+  metadata: { request: { card_id: '61f3d5907c540e4d1c34ba67' } }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T11:38:18.662Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T11:38:18.692Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T11:38:18.726Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T11:39:02.533Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T11:39:02.561Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T11:39:02.592Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:39:07.649Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:39:07.868Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '61f3d5dbe320ee1008640fc2',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:39:07.987Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:39:08.029Z',
+  label: 'payme',
+  metadata: { request: { card_id: '61f3d5dbe320ee1008640fc2' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:39:08.073Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Логин пользователя введен неверно',
+  level: 'error',
+  timestamp: '2022-01-28T11:39:08.162Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T11:44:14.505Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T11:44:14.534Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T11:44:14.574Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:44:18.366Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:44:20.619Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '61f3d712dff70f7bcec2f8fd',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:44:25.784Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:44:25.811Z',
+  label: 'payme',
+  metadata: { request: { card_id: '61f3d712dff70f7bcec2f8fd' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:44:25.828Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Сумма платежа меньше допустимой',
+  level: 'error',
+  timestamp: '2022-01-28T11:44:28.743Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:44:44.626Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:44:46.828Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '61f3d72edff70f7bcec2f903',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:44:46.887Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:44:46.915Z',
+  label: 'payme',
+  metadata: { request: { card_id: '61f3d72edff70f7bcec2f903' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:44:46.936Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: '10000'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:44:47.034Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3d72edff70f7bcec2f903',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '61f3d72e16659999a64dad3a'
+    }
+  }
+}
+{
+  message: 'Card id is required',
+  level: 'error',
+  timestamp: '2022-01-28T11:44:47.037Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f3d72edff70f7bcec2f903',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '61f3d72e16659999a64dad3a'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T11:45:35.633Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T11:45:35.655Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T11:45:35.677Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:45:38.807Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:45:39.489Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '61f3d7634db3f595aea53bea',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:45:39.871Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:45:39.910Z',
+  label: 'payme',
+  metadata: { request: { card_id: '61f3d7634db3f595aea53bea' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:45:39.942Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: '10000'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T11:45:40.165Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3d7634db3f595aea53bea',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '61f3d76416659999a64dad4b'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-01-28T11:45:40.479Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f3d7634db3f595aea53bea',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '61f3d76416659999a64dad4b'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T11:57:41.531Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T11:57:41.552Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T11:57:41.574Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:00:40.124Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600550482667616',
+      card_expire: '0426',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:01:07.125Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      card_id: '61f3dae84c4e93bd20413077',
+      code: '145205'
+    }
+  }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:01:20.194Z',
+  label: 'payme',
+  metadata: { request: { user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:02:17.813Z',
+  label: 'payme',
+  metadata: { request: { card_id: '61f3dae84c4e93bd20413077' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:06:25.978Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      purchase_id: '0929a508-8fd0-4574-90ef-b706100f8304',
+      purchase_type: 'subscription',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:06:58.490Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-01-28T12:06:58.715Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T12:07:52.184Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T12:07:52.205Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T12:07:52.227Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:07:54.207Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-01-28T12:07:54.751Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T12:08:04.952Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T12:08:04.976Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T12:08:05.000Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:08:07.157Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-01-28T12:08:07.325Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T12:08:19.563Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T12:08:19.585Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T12:08:19.607Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:08:21.875Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T12:09:05.422Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T12:09:05.443Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T12:09:05.464Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:09:07.994Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Чек не найден или оплачен',
+  level: 'error',
+  timestamp: '2022-01-28T12:09:10.323Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:09:16.044Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      purchase_id: '0929a508-8fd0-4574-90ef-b706100f8304',
+      purchase_type: 'subscription',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:09:27.219Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dceebe3e205a0d2f68d5'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T12:10:08.931Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T12:10:08.953Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T12:10:08.974Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:10:12.511Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      purchase_id: '0929a508-8fd0-4574-90ef-b706100f8304',
+      purchase_type: 'subscription',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:10:27.438Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dd2432f1ca4c0d64cc86'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T12:13:31.101Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 6061',
+  level: 'info',
+  timestamp: '2022-01-28T12:13:31.123Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T12:13:31.145Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:13:38.310Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      purchase_id: '0929a508-8fd0-4574-90ef-b706100f8304',
+      purchase_type: 'subscription',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T12:13:47.677Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3ddf232f1ca4c0d64d04f'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T12:22:43.246Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9103',
+  level: 'info',
+  timestamp: '2022-01-28T12:22:43.269Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T12:22:43.292Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T13:12:12.365Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-28T13:12:12.389Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T13:12:12.415Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T13:13:03.618Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-28T13:13:03.641Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T13:13:03.662Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:14:39.807Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600550482667616',
+      card_expire: '0426',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:14:58.449Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      card_id: '61f3ec4058d72731f8f9eb03',
+      code: '322097'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T13:22:57.879Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-28T13:22:57.904Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T13:22:57.929Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T13:28:13.050Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-28T13:28:13.071Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T13:28:13.097Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:30:51.707Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' } }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:31:21.376Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600550482667616',
+      card_expire: '0426',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7'
+    }
+  }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:31:26.384Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' } }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:32:51.388Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:33:05.883Z',
+  label: 'payme',
+  metadata: {
+    request: { card_id: '', user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' }
+  }
+}
+{
+  message: 'Card id is required',
+  level: 'error',
+  timestamp: '2022-01-28T13:33:05.885Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'GetCard',
+    request: { card_id: '', user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-28T13:33:57.392Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-28T13:33:57.417Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-28T13:33:57.442Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:34:01.114Z',
+  label: 'payme',
+  metadata: {
+    request: { card_id: '', user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' }
+  }
+}
+{
+  message: 'Card id is required',
+  level: 'error',
+  timestamp: '2022-01-28T13:34:01.116Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'GetCard',
+    request: { card_id: '', user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' }
+  }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:35:22.475Z',
+  label: 'payme',
+  metadata: {
+    request: { card_id: '', user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' }
+  }
+}
+{
+  message: 'Card id is required',
+  level: 'error',
+  timestamp: '2022-01-28T13:35:22.476Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'GetCard',
+    request: { card_id: '', user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' }
+  }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:36:19.435Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3f0292c8ca9cbce0f4786',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7'
+    }
+  }
+}
+{
+  message: 'Card remove request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:36:40.302Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3f0292c8ca9cbce0f4786',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7'
+    }
+  }
+}
+{
+  message: 'Card remove request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:36:43.931Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3f0292c8ca9cbce0f4786',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7'
+    }
+  }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:36:48.858Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3f0292c8ca9cbce0f4786',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7'
+    }
+  }
+}
+{
+  message: 'No card is found',
+  level: 'error',
+  timestamp: '2022-01-28T13:36:48.861Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'GetCard',
+    request: {
+      card_id: '61f3f0292c8ca9cbce0f4786',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7'
+    }
+  }
+}
+{
+  message: 'Card remove request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:36:51.967Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3f0292c8ca9cbce0f4786',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7'
+    }
+  }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T13:36:56.762Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' } }
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-28T14:29:34.799Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T14:30:48.832Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      purchase_id: 'b773f3f5-2675-4fc2-bee9-7c7c7dc2b4ea',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T14:30:49.023Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3ec4058d72731f8f9eb03',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      receipt_id: '61f3fe1827e56ba30dab748b'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T14:34:39.837Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      purchase_id: 'b773f3f5-2675-4fc2-bee9-7c7c7dc2b4ea',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T14:34:39.909Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3ec4058d72731f8f9eb03',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      receipt_id: '61f3feffc84abf840db8d57e'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T14:36:11.320Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      purchase_id: 'b773f3f5-2675-4fc2-bee9-7c7c7dc2b4ea',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T14:36:11.433Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3ec4058d72731f8f9eb03',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      receipt_id: '61f3ff5b407777120e6fae83'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T14:37:01.966Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      purchase_id: 'b773f3f5-2675-4fc2-bee9-7c7c7dc2b4ea',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T14:37:02.091Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3ec4058d72731f8f9eb03',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      receipt_id: '61f3ff8e32f1ca4c0d65a4f8'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T14:42:52.770Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      purchase_id: 'b773f3f5-2675-4fc2-bee9-7c7c7dc2b4ea',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T14:43:13.824Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      purchase_id: 'b773f3f5-2675-4fc2-bee9-7c7c7dc2b4ea',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-28T14:43:13.982Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3ec4058d72731f8f9eb03',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      receipt_id: '61f40101407777120e6fb1be'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://payment_service:mongodb@localhost:27017/mongodb',
+  level: 'info',
+  timestamp: '2022-01-28T15:11:20.847Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-28T15:11:20.865Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'There is an error in connecting db (mongodb://payment_service:mongodb@localhost:27017/mongodb): Authentication failed.',
+  level: 'error',
+  timestamp: '2022-01-28T15:11:20.889Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://payment_service:mongodb@localhost:27017/mongodb',
+  level: 'info',
+  timestamp: '2022-01-29T07:36:32.430Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-29T07:36:32.473Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'express is running at 3000',
+  level: 'info',
+  timestamp: '2022-01-29T07:36:32.484Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'There is an error in connecting db (mongodb://payment_service:mongodb@localhost:27017/mongodb): Authentication failed.',
+  level: 'error',
+  timestamp: '2022-01-29T07:36:32.646Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://payment_service:mongodb@localhost:27017/mongodb',
+  level: 'info',
+  timestamp: '2022-01-29T07:39:37.459Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-29T07:39:37.486Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'There is an error in connecting db (mongodb://payment_service:mongodb@localhost:27017/mongodb): Authentication failed.',
+  level: 'error',
+  timestamp: '2022-01-29T07:39:37.530Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-29T07:39:54.979Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-29T07:39:55.004Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-29T07:39:55.030Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Get card list request',
+  level: 'debug',
+  timestamp: '2022-01-29T07:42:28.433Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-29T07:42:58.283Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      purchase_id: '2cd1b44a-7520-4c71-8707-ede1ceb92404',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-29T07:42:58.447Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f3ec4058d72731f8f9eb03',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7',
+      receipt_id: '61f4f00254f4b3680dc0151c'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-29T12:48:08.082Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-29T12:48:08.104Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-29T12:48:08.129Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-31T06:54:23.409Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-31T06:54:23.429Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-31T06:54:23.455Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T07:19:02.937Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_id: '153da3f5-51ca-4e13-8e28-ccdac3d32b3e',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T07:19:03.107Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: 'string',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      receipt_id: '61f78d6716659999a64dae73'
+    }
+  }
+}
+{
+  message: 'Cast to ObjectId failed for value "string" (type string) at path "_id" for model "PaymeCard"',
+  level: 'error',
+  timestamp: '2022-01-31T07:19:03.112Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: 'string',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      receipt_id: '61f78d6716659999a64dae73'
+    }
+  }
+}
+{
+  message: 'Card lost response',
+  level: 'debug',
+  timestamp: '2022-01-31T07:19:23.701Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c' } }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-31T07:19:38.374Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '0399',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-31T07:19:54.115Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      card_id: '61f78d8abbbc4e58ea29c63a',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T07:20:03.495Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_id: '5f4f58eb-9991-459f-bb78-e6d3255dc8e8',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T07:20:03.539Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f78d8abbbc4e58ea29c63a',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      receipt_id: '61f78da316659999a64dae74'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-31T10:00:54.084Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-31T10:00:54.115Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-31T10:00:54.142Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Card lost response',
+  level: 'debug',
+  timestamp: '2022-01-31T10:01:30.761Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c' } }
+}
+{
+  message: 'Card remove request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:01:39.728Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f78d8abbbc4e58ea29c63a',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c'
+    }
+  }
+}
+{
+  message: 'Card remove request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:01:43.648Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f78d8abbbc4e58ea29c63a',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c'
+    }
+  }
+}
+{
+  message: 'Card lost response',
+  level: 'debug',
+  timestamp: '2022-01-31T10:01:49.741Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c' } }
+}
+{
+  message: 'Card lost response',
+  level: 'debug',
+  timestamp: '2022-01-31T10:02:41.178Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c' } }
+}
+{
+  message: 'Card lost response',
+  level: 'debug',
+  timestamp: '2022-01-31T10:04:10.390Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c' } }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-31T10:27:33.001Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-31T10:27:33.027Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-31T10:27:33.055Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:28:49.406Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', 'help' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-31T10:29:29.723Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-31T10:29:29.750Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-31T10:29:29.782Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:29:31.648Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', 'help' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-31T10:30:08.588Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-31T10:30:08.621Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-31T10:30:08.652Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:30:10.349Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', 'help' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'receipt is not defined',
+  level: 'error',
+  timestamp: '2022-01-31T10:30:10.417Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', 'help' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-31T10:32:02.870Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-31T10:32:02.892Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-31T10:32:02.915Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:32:05.285Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', 'help' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'receipt is not defined',
+  level: 'error',
+  timestamp: '2022-01-31T10:32:05.329Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', 'help' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-31T10:32:24.940Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-31T10:32:24.962Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-31T10:32:24.983Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:32:26.861Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', 'help' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'tariff day not found',
+  level: 'error',
+  timestamp: '2022-01-31T10:32:26.950Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', 'help' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:32:37.550Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'receipt is not defined',
+  level: 'error',
+  timestamp: '2022-01-31T10:32:37.601Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:32:47.539Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      tariff_day_ids: [ 'help', 'QVwhtlx7g' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'tariff day not found',
+  level: 'error',
+  timestamp: '2022-01-31T10:32:47.573Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'help', 'QVwhtlx7g' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:32:59.716Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      tariff_day_ids: [ '9VQht_x7R', 'QVwhtlx7g' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'receipt is not defined',
+  level: 'error',
+  timestamp: '2022-01-31T10:32:59.746Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ '9VQht_x7R', 'QVwhtlx7g' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-01-31T10:38:01.252Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-01-31T10:38:01.284Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-01-31T10:38:01.310Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:47:23.313Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', '9VQht_x7R' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_id: '8065ed92-5ced-420b-986b-bd14711142cc',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '10000'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:47:23.488Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f78d8abbbc4e58ea29c63a',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      receipt_id: '61f7be3b16659999a64daee3'
+    }
+  }
+}
+{
+  message: 'No card is found',
+  level: 'error',
+  timestamp: '2022-01-31T10:47:23.510Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f78d8abbbc4e58ea29c63a',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      receipt_id: '61f7be3b16659999a64daee3'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:48:09.234Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '0399',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:48:22.503Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      card_id: '61f7be69dd4a1bc0c9a4a243',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:48:29.544Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', '9VQht_x7R' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_id: '31cbd1a1-c780-44fe-b18d-c8e8b233da46',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '10000'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:48:29.621Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f7be69dd4a1bc0c9a4a243',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      receipt_id: '61f7be7d16659999a64daee5'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-01-31T10:48:35.188Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', '9VQht_2x7R' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_id: '4ea61239-86c0-4ad2-a6e9-8912f561f46b',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '10000'
+    }
+  }
+}
+{
+  message: 'tariff day not found',
+  level: 'error',
+  timestamp: '2022-01-31T10:48:35.200Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', '9VQht_2x7R' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_id: '4ea61239-86c0-4ad2-a6e9-8912f561f46b',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '10000'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-01T06:01:05.015Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-01T06:01:05.046Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-01T06:01:05.073Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Card lost response',
+  level: 'debug',
+  timestamp: '2022-02-01T06:11:16.932Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-01T06:11:24.387Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_id: '',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'purchase_id is required',
+  level: 'error',
+  timestamp: '2022-02-01T06:11:24.438Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_id: '',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-01T06:15:47.090Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-01T06:15:47.113Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-01T06:15:47.137Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-01T06:16:16.952Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        'ed1f33ef-9b01-4871-b34e-a4d7d2885252',
+        'be160e1a-5490-4791-bd57-727eaa551e8b'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Receipt validation failed: purchase_id: Cast to string failed for value "[\n' +
+    "  'ed1f33ef-9b01-4871-b34e-a4d7d2885252',\n" +
+    "  'be160e1a-5490-4791-bd57-727eaa551e8b'\n" +
+    ']" (type Array) at path "purchase_id"',
+  level: 'error',
+  timestamp: '2022-02-01T06:16:17.103Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [
+        'ed1f33ef-9b01-4871-b34e-a4d7d2885252',
+        'be160e1a-5490-4791-bd57-727eaa551e8b'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-01T06:17:05.620Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        '71da3690-b14f-49bb-a400-19cf537c3a85',
+        '32c0ecf0-52a5-478f-ba3d-44249613bd32'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Receipt validation failed: purchase_id: Cast to string failed for value "[\n' +
+    "  '71da3690-b14f-49bb-a400-19cf537c3a85',\n" +
+    "  '32c0ecf0-52a5-478f-ba3d-44249613bd32'\n" +
+    ']" (type Array) at path "purchase_id"',
+  level: 'error',
+  timestamp: '2022-02-01T06:17:05.702Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [
+        '71da3690-b14f-49bb-a400-19cf537c3a85',
+        '32c0ecf0-52a5-478f-ba3d-44249613bd32'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-01T06:17:13.398Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-01T06:17:13.420Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-01T06:17:13.442Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-01T06:17:18.605Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        '2a7e7961-f4ff-4c18-84a1-a4dd476a4fcf',
+        'ca2a3ccf-1e22-46f4-a4ab-8fdfa5639ba6'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Receipt validation failed: purchase_id: Cast to string failed for value "[\n' +
+    "  '2a7e7961-f4ff-4c18-84a1-a4dd476a4fcf',\n" +
+    "  'ca2a3ccf-1e22-46f4-a4ab-8fdfa5639ba6'\n" +
+    ']" (type Array) at path "purchase_id"',
+  level: 'error',
+  timestamp: '2022-02-01T06:17:18.791Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [
+        '2a7e7961-f4ff-4c18-84a1-a4dd476a4fcf',
+        'ca2a3ccf-1e22-46f4-a4ab-8fdfa5639ba6'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-01T06:19:37.474Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-01T06:19:37.497Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-01T06:19:37.524Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-01T06:19:39.458Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        '6f6142f0-1db6-45a3-a9b0-a2c5249a8f14',
+        '6fcc1d11-a145-40f1-8a0e-db3bb8ecebfd'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Receipt validation failed: purchase_id: Cast to string failed for value "[\n' +
+    "  '6f6142f0-1db6-45a3-a9b0-a2c5249a8f14',\n" +
+    "  '6fcc1d11-a145-40f1-8a0e-db3bb8ecebfd'\n" +
+    ']" (type Array) at path "purchase_id"',
+  level: 'error',
+  timestamp: '2022-02-01T06:19:39.746Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [
+        '6f6142f0-1db6-45a3-a9b0-a2c5249a8f14',
+        '6fcc1d11-a145-40f1-8a0e-db3bb8ecebfd'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-01T06:20:10.892Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-01T06:20:22.622Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-01T06:20:22.644Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-01T06:20:22.666Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-01T06:20:24.883Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        '217d5c71-622a-4098-a0ef-fbe3441ef2cd',
+        'fe19ed74-9e68-4f03-8ebc-65209a5db53c'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Receipt validation failed: purchase_id: Cast to string failed for value "[\n' +
+    "  '217d5c71-622a-4098-a0ef-fbe3441ef2cd',\n" +
+    "  'fe19ed74-9e68-4f03-8ebc-65209a5db53c'\n" +
+    ']" (type Array) at path "purchase_id"',
+  level: 'error',
+  timestamp: '2022-02-01T06:20:25.107Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [
+        '217d5c71-622a-4098-a0ef-fbe3441ef2cd',
+        'fe19ed74-9e68-4f03-8ebc-65209a5db53c'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-01T06:20:43.634Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-01T06:20:43.656Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-01T06:20:43.678Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-01T06:20:46.688Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        '1c68b596-e70e-4072-926b-ff374f7958fb',
+        '6b9b0d67-39cc-4241-8b4e-0c1b4401825e'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Receipt validation failed: purchase_id: Cast to string failed for value "[\n' +
+    "  '1c68b596-e70e-4072-926b-ff374f7958fb',\n" +
+    "  '6b9b0d67-39cc-4241-8b4e-0c1b4401825e'\n" +
+    ']" (type Array) at path "purchase_id"',
+  level: 'error',
+  timestamp: '2022-02-01T06:20:46.850Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [
+        '1c68b596-e70e-4072-926b-ff374f7958fb',
+        '6b9b0d67-39cc-4241-8b4e-0c1b4401825e'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-01T06:21:59.083Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-01T06:21:59.105Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-01T06:21:59.128Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-01T06:22:03.575Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        'cf8467cd-1bc5-4db3-bec8-a9eba79ee1a0',
+        '794dfb6f-75f8-4d1f-8098-5b4d1dedaef3'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-01T06:22:03.735Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f7be69dd4a1bc0c9a4a243',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      receipt_id: '61f8d18b16659999a64daf55'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-01T12:09:42.492Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-01T12:09:42.519Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-01T12:09:42.547Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-01T12:39:44.305Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-01T12:39:44.336Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-01T12:39:44.361Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-02T12:19:50.671Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-02T12:19:50.994Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-02T12:19:51.067Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-02-02T12:22:52.806Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-02T12:32:15.708Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '29b65bb5-affb-4392-82b2-6882d042f9a5' ],
+      tariff_day_ids: [],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'TVOD',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Request failed with status code 502',
+  level: 'error',
+  timestamp: '2022-02-02T12:32:15.830Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ '29b65bb5-affb-4392-82b2-6882d042f9a5' ],
+      tariff_day_ids: [],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'TVOD',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-02T12:32:27.831Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '9a64cb0e-b361-415d-847b-7a7cc6f51bb4' ],
+      tariff_day_ids: [],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'TVOD',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Request failed with status code 502',
+  level: 'error',
+  timestamp: '2022-02-02T12:32:27.922Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ '9a64cb0e-b361-415d-847b-7a7cc6f51bb4' ],
+      tariff_day_ids: [],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'TVOD',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-02T12:33:46.905Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-02T12:33:46.926Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-02T12:33:46.948Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-02T12:33:49.099Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '1d47446e-fb34-4a9d-a73c-2f70abb527ce' ],
+      tariff_day_ids: [],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'TVOD',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-02T12:33:49.348Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f7be69dd4a1bc0c9a4a243',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      receipt_id: '61fa7a2d5c46a593334931e9'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-02T12:34:04.378Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-02T12:34:04.403Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-02T12:34:04.430Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-02T12:37:13.262Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '7e203fed-b790-4248-bbee-f54f916fb735' ],
+      tariff_day_ids: [],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'TVOD',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-02T12:37:13.434Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '61f7be69dd4a1bc0c9a4a243',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      receipt_id: '61fa7af95c46a593334931ea'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-07T06:24:20.522Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-07T06:24:20.546Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-07T06:24:20.565Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-02-07T06:30:19.670Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501' } }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-02-07T06:30:27.624Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '0399',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-02-07T06:30:39.071Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      card_id: '6200bc839a8ca15fd6af8245',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-02-07T06:30:55.132Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-07T06:31:23.866Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'd2b6c536-786f-48ef-a37b-c5ef21c676a6' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: ''
+    }
+  }
+}
+{
+  message: 'document must have an _id before saving',
+  level: 'error',
+  timestamp: '2022-02-07T06:31:24.004Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ 'd2b6c536-786f-48ef-a37b-c5ef21c676a6' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: ''
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-07T06:32:08.059Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-07T06:32:08.085Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-07T06:32:08.115Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-07T06:32:14.007Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'b99222f4-b94e-41f9-b2fb-c2f0491ba4b3' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: ''
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-07T06:32:14.277Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '6200bc839a8ca15fd6af8245',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      receipt_id: '6200bcee5c46a5933349387e'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-07T06:33:52.122Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-07T06:33:52.145Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-07T06:33:52.176Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-07T06:33:54.841Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'd4109243-011c-4a6d-94d9-3bed24dd3b1c' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: ''
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-07T06:33:55.030Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '6200bc839a8ca15fd6af8245',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      receipt_id: '6200bd535c46a5933349388e'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-07T06:41:21.639Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '07df7937-bf0b-40bd-a319-05f9f3483db9' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'TVOD',
+      amount: '10',
+      name: ''
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-07T06:41:21.692Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '6200bc839a8ca15fd6af8245',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      receipt_id: '6200bf115c46a5933349388f'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-07T07:52:33.471Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-07T07:52:33.487Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-07T07:52:33.504Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-07T07:54:41.100Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 0,
+      page: 0,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-07T07:55:46.813Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 0,
+      page: 0,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-07T08:00:00.684Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-07T08:00:00.700Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-07T08:00:00.718Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-07T08:00:05.969Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 0,
+      page: 0,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-07T08:02:57.811Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-07T08:02:57.828Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-07T08:02:57.844Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-07T08:03:12.885Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-07T08:03:12.903Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-07T08:03:12.922Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-07T08:03:34.397Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-07T08:03:34.414Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-07T08:03:34.434Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-02-07T08:04:08.899Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-07T08:04:17.794Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '342321d7-1407-40c8-9167-34a0e036bd28' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2300',
+      name: ''
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-07T08:04:17.926Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '6200bc839a8ca15fd6af8245',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      receipt_id: '6200d2815c46a59333493927'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-07T08:05:27.744Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-07T08:05:27.760Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-07T08:05:27.776Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-07T08:05:30.287Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'f57b8fbb-570a-40d4-8259-b9683578ffda' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2300',
+      name: ''
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-07T08:05:30.382Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '6200bc839a8ca15fd6af8245',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      receipt_id: '6200d2ca5c46a59333493928'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-07T08:05:39.037Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 0,
+      page: 0,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-07T08:07:43.057Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 10,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T06:30:32.840Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T06:30:32.859Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T06:30:32.889Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-02-09T06:34:28.979Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-09T06:34:37.551Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'b3bb21c6-9db1-4344-a7e1-6b3550120ee8' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: ''
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-09T06:34:37.703Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '6200bc839a8ca15fd6af8245',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      receipt_id: '6203607d5c46a59333493b91'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T06:34:50.525Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 10,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T06:35:47.446Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T06:35:47.462Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T06:35:47.480Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T06:36:44.379Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 10,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-09T06:50:53.608Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        '6f5d3727-df36-4006-b386-347a80f2d010',
+        '0d8b5f2e-6a31-40e8-b283-1ccb311d31d5'
+      ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '4300',
+      name: ''
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-09T06:50:53.769Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '6200bc839a8ca15fd6af8245',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      receipt_id: '6203644d5c46a59333493bc3'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T06:50:58.178Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 10,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T07:01:28.020Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T07:01:28.038Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T07:01:28.056Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-09T07:01:44.499Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        'd3de4f99-aa79-434b-a68e-35eb16bae7e7',
+        '80f3c11e-caf2-44dc-8d29-28b2f7d25803'
+      ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '4300',
+      name: 'est'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-09T07:01:44.626Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '6200bc839a8ca15fd6af8245',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      receipt_id: '620366d85c46a59333493bee'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T07:01:48.447Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 10,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T07:03:21.784Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T07:03:21.801Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T07:03:21.818Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-09T07:03:52.897Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        'a4ea8cb4-3e6c-44fb-981b-c147d06b4a6c',
+        '99f833b9-539e-40af-9497-bb49516b8c46'
+      ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '4300',
+      name: 'est'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-09T07:03:53.018Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '6200bc839a8ca15fd6af8245',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      receipt_id: '620367585c46a59333493bf5'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T07:03:57.060Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 10,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T07:10:44.054Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 10,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-09T07:11:44.218Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        '623959c5-1f25-4184-b598-a8a012f34ff7',
+        '8d4ef460-8f00-449d-b44c-ec00c2ae0397'
+      ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '4300',
+      name: 'est, est'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-09T07:11:44.343Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '6200bc839a8ca15fd6af8245',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      receipt_id: '620369305c46a59333493c1b'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T07:11:49.025Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 10,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T08:14:58.183Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T08:14:58.221Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T08:14:58.261Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T08:15:21.831Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T08:15:21.858Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T08:15:21.885Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:15:31.751Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 10,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T08:15:52.787Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T08:15:52.808Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T08:15:52.830Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:15:55.407Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 10,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T08:16:21.994Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T08:16:22.025Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T08:16:22.052Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:16:23.564Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 10,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:16:30.581Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 1,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T08:16:41.513Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T08:16:41.535Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T08:16:41.556Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:16:43.445Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 1,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:16:50.548Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 1,
+      page: 3,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T08:17:15.671Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T08:17:15.694Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T08:17:15.719Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:17:18.110Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 1,
+      page: 3,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:17:25.924Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 1,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T08:17:40.160Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T08:17:40.190Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T08:17:40.218Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:17:44.233Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 1,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T08:19:02.674Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T08:19:02.695Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T08:19:02.719Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:19:06.314Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 1,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T08:19:17.888Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T08:19:17.909Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T08:19:17.931Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:19:19.849Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 1,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T08:19:42.311Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T08:19:42.332Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T08:19:42.357Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:19:44.930Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 1,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:19:48.204Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 1,
+      page: 2,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:19:51.564Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 1,
+      page: 3,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-09T08:22:41.221Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-09T08:22:41.248Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-09T08:22:41.275Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Transaction list response',
+  level: 'debug',
+  timestamp: '2022-02-09T08:23:00.169Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      limit: 1,
+      page: 1,
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-12T07:18:45.534Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-12T07:18:45.550Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-12T07:18:45.569Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-12T13:03:29.152Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '11c9addd-7686-4344-a2b9-80993dfd5943' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'TVOD',
+      amount: '0',
+      name: 'Как приручить дракона 3'
+    }
+  }
+}
+{
+  message: 'Amount is required',
+  level: 'error',
+  timestamp: '2022-02-12T13:03:29.155Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ '11c9addd-7686-4344-a2b9-80993dfd5943' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'TVOD',
+      amount: '0',
+      name: 'Как приручить дракона 3'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-02-12T13:10:54.284Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-12T13:11:58.123Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'e92662d3-5ede-4d71-8d94-835d483400cd' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'TVOD',
+      amount: '10',
+      name: 'Кунг-фу Панда 1'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-12T13:11:58.300Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '6200bc839a8ca15fd6af8245',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      receipt_id: '6207b21e48e312fe500e6039'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-12T13:20:43.650Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '476de57e-a735-43e9-a4f2-05125c9afa9f' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: 'est'
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-02-12T13:20:43.694Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '6200bc839a8ca15fd6af8245',
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      receipt_id: '6207b42b48e312fe500e603a'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-16T11:06:03.746Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-16T11:06:03.767Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-16T11:06:03.951Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-02-16T11:07:13.887Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-16T11:07:57.711Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'e7293851-99c3-4b3d-923d-c46d0f6eb1a5' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: 'est',
+      card_id: '6200bc839a8ca15fd6af8245'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-02-16T11:07:57.980Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ 'e7293851-99c3-4b3d-923d-c46d0f6eb1a5' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: 'est',
+      card_id: '6200bc839a8ca15fd6af8245'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-16T11:08:44.483Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-16T11:08:44.504Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-16T11:08:44.527Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-16T11:08:46.888Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '3a8134ba-f46d-4b87-bb21-8dfd5e95e624' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: 'est',
+      card_id: '6200bc839a8ca15fd6af8245'
+    }
+  }
+}
+{
+  message: "Cannot access 'receipt' before initialization",
+  level: 'error',
+  timestamp: '2022-02-16T11:08:47.039Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ '3a8134ba-f46d-4b87-bb21-8dfd5e95e624' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: 'est',
+      card_id: '6200bc839a8ca15fd6af8245'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-16T11:09:07.229Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-16T11:09:07.254Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-16T11:09:07.284Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-16T11:09:23.667Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-16T11:09:23.689Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-16T11:09:23.709Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-16T11:09:25.654Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '12a19854-ed44-4571-a7a0-c00afcb81dc9' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: 'est',
+      card_id: '6200bc839a8ca15fd6af8245'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-02-16T11:09:34.374Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-02-16T11:09:34.411Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-02-16T11:09:34.457Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-02-16T11:09:36.300Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '3dfa4588-161a-4193-afc1-f3d41e0aecab' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: 'est',
+      card_id: '6200bc839a8ca15fd6af8245'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-03-02T12:18:47.128Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-03-02T12:18:47.146Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-03-02T12:18:47.177Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-03-02T12:22:51.620Z',
+  label: 'payme',
+  metadata: { request: { user_id: '249d44e8-cd60-4afd-854d-18d33191ac98' } }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-03-02T12:23:05.103Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-03-02T12:23:16.848Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      card_id: '621f61a995f46bff6da634a9',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'getaddrinfo EAI_AGAIN checkout.test.paycom.uz',
+  level: 'error',
+  timestamp: '2022-03-02T12:23:16.863Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      card_id: '621f61a995f46bff6da634a9',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-03-02T12:25:02.223Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      card_id: '621f61a995f46bff6da634a9',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-02T12:26:13.578Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '3b001f81-00e6-4f85-8ad9-ecc227027994' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '100',
+      name: 'vel',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-02T12:26:27.747Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'a77d7fae-317c-41fa-9b6e-8d424df39241' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '100',
+      name: 'vel',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-02T12:27:12.004Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '67872c68-01df-448b-9814-2be1c13af1b9' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '100',
+      name: 'vel',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-02T12:28:48.660Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '7180c0fd-5dc7-4278-bdb7-cc8b93566fcf' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '700',
+      name: 'vel',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-02T12:28:56.293Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'eaea935b-29ac-402c-98e3-0edd1abb0548' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '700',
+      name: 'vel',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-03-02T13:08:39.908Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-03-02T13:08:39.928Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-03-02T13:08:39.948Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-03-02T13:32:26.412Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-03-02T13:32:26.432Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-03-02T13:32:26.450Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-03-02T13:32:50.760Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-03-02T13:32:55.753Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 27331 6478',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-03-02T13:32:55.771Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 27331 6478',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-03-02T13:33:02.680Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-03-02T13:33:17.380Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      card_id: '621f720e1a68ca2095549533',
+      code: '666646'
+    }
+  }
+}
+{
+  message: 'Введен неверный код.',
+  level: 'error',
+  timestamp: '2022-03-02T13:33:17.561Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      card_id: '621f720e1a68ca2095549533',
+      code: '666646'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-03-02T13:51:24.416Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-03-02T13:51:24.435Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-03-02T13:51:24.452Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-03-02T13:51:52.478Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-03-02T13:51:57.383Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 s6478',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-03-02T13:51:57.401Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 s6478',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-03-02T13:52:06.444Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-03-02T13:52:06.469Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-03-02T13:52:15.600Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-03-02T13:52:15.619Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-03-02T13:57:32.044Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-03-02T13:57:32.066Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-03-02T13:57:42.581Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-03-02T13:59:23.249Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-03-02T13:59:23.273Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-03-02T13:59:23.290Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-03-02T13:59:31.945Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-03-02T14:25:55.348Z',
+  label: 'payme',
+  metadata: { request: { user_id: '249d44e8-cd60-4afd-854d-18d33191ac98' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-02T14:26:34.048Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '56f8fdce-de78-4aad-92bd-bdde9633ade0' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '100',
+      name: 'vel',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Карта не найдена.',
+  level: 'error',
+  timestamp: '2022-03-02T14:26:36.793Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ '56f8fdce-de78-4aad-92bd-bdde9633ade0' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '100',
+      name: 'vel',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-03-02T14:27:06.158Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-03-02T14:27:06.181Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-03-02T14:27:06.209Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-02T14:27:09.870Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '85887c26-ae86-4985-b4c7-87cf153780b4' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '100',
+      name: 'vel',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-02T14:29:07.953Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'aa6860e4-7083-4734-b589-1385d52e74a0' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '700',
+      name: 'vel',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-03-09T06:57:32.725Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-03-09T06:57:32.739Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-03-09T06:57:32.759Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-03-09T06:57:48.341Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-03-09T06:57:48.358Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-03-09T06:57:48.374Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-03-26T11:54:57.686Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-03-26T11:54:57.702Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-03-26T11:54:57.718Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-03-26T12:11:39.286Z',
+  label: 'payme',
+  metadata: { request: { user_id: '249d44e8-cd60-4afd-854d-18d33191ac98' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-26T12:11:47.608Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'dd3ae7bd-99d0-498b-af08-b401e333e29d' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '10000',
+      name: 'Accusantium perferendis voluptatem aut sit consequatur.',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-03-30T08:11:26.103Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-03-30T08:11:26.121Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-03-30T08:11:26.138Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-03-30T08:11:58.832Z',
+  label: 'payme',
+  metadata: { request: { user_id: '249d44e8-cd60-4afd-854d-18d33191ac98' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-30T08:12:07.451Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '6d0e1020-c4b7-4ba7-b2be-3b1b74475c25' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '1000',
+      name: 'itaque',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-30T08:12:20.658Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '076e9ee2-1152-4ced-a937-f64e40049936' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '1000',
+      name: 'itaque',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-30T08:12:36.441Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        '0841889a-d598-4afb-aefe-934fb5ce60be',
+        '4341cbc4-d628-4df1-bd4e-70dcc929fc08'
+      ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '1700',
+      name: 'itaque, itaque',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-03-30T08:12:41.214Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [
+        '01aba5a9-621a-41d6-b015-9b31d95e59dc',
+        '7f33f242-e060-4855-b279-d1f58a445713'
+      ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '1700',
+      name: 'itaque, itaque',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-04-04T04:38:33.493Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-04-04T04:38:33.510Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-04-04T04:38:33.528Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-04-04T04:43:36.844Z',
+  label: 'payme',
+  metadata: { request: { user_id: '249d44e8-cd60-4afd-854d-18d33191ac98' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-04-04T04:44:34.351Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'dbfe47b4-5b47-412e-9d34-a88e0db13134' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '1000',
+      name: 'itaque',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-04-04T05:02:22.787Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '374fce1c-53b3-4dbb-bb1d-e0c6eda7db6a' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '1000',
+      name: 'itaque',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-04-04T05:09:16.254Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '6085b080-7f24-4f73-a868-d3888059b8bf' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '1000',
+      name: 'itaque',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-04-04T05:12:55.271Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ 'b16c327d-60f0-4c33-a243-7a901d38caeb' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '1000',
+      name: 'itaque',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-04-04T05:57:11.211Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '019bbe47-2b46-4fa8-9068-10b8a80597f6' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '1000',
+      name: 'itaque',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-04-04T06:01:53.676Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '4f908ff6-d960-4fba-990c-a8c43b937b8a' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '1000',
+      name: 'itaque',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-04-06T10:56:01.954Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-04-06T10:56:01.970Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-04-06T10:56:01.985Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-04-06T11:30:22.098Z',
+  label: 'payme',
+  metadata: { request: { user_id: '249d44e8-cd60-4afd-854d-18d33191ac98' } }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-04-06T11:30:54.602Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '2f05e9f0-ccd9-4988-9605-50b894d3de17' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '1000',
+      name: 'itaque',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-04-06T11:31:22.423Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      purchase_id: [ '8c8c6766-aa55-4af0-bf8a-ff9ff5d75dc3' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '1000',
+      name: 'itaque',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-08T09:46:01.972Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-08T09:46:02.009Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-08T09:46:02.049Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-08T10:05:08.779Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-08T10:05:08.798Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-08T10:05:08.814Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-08T10:06:22.554Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-08T10:06:22.570Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-08T10:06:22.587Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T10:58:34.328Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-23T10:58:34.335Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'There is an error in connecting db (mongodb://localhost:27017/payment_service): connect ECONNREFUSED ::1:27017',
+  level: 'error',
+  timestamp: '2022-12-23T10:59:04.339Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T11:16:57.123Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-23T11:16:57.131Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T11:16:57.139Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:41:16.191Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Operation `paymecards.insertOne()` buffering timed out after 10000ms',
+  level: 'error',
+  timestamp: '2022-12-23T11:41:26.353Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T11:43:49.396Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:43:49.404Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T11:43:49.439Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T11:45:30.740Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:45:30.748Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T11:45:30.777Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:45:30.907Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a594da683cbea220981a49',
+      code: 666666
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-12-23T11:45:30.943Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a594da683cbea220981a49',
+      code: 666666
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T11:46:53.810Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:46:53.818Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T11:46:53.847Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:46:53.935Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a5952d9325f95828a9f7a1',
+      code: 666666
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-12-23T11:46:53.962Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a5952d9325f95828a9f7a1',
+      code: 666666
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T11:47:44.206Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:47:44.214Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T11:47:44.243Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:47:44.358Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a59560b9bc59bc7b0eccad',
+      code: 666666
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-12-23T11:47:44.387Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a59560b9bc59bc7b0eccad',
+      code: 666666
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T11:59:33.867Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:59:33.875Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T11:59:33.904Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:59:33.983Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a598258ca4841737da5037',
+      code: 666666
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-12-23T11:59:34.019Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a598258ca4841737da5037',
+      code: 666666
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T11:59:58.470Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:59:58.477Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T11:59:58.506Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:59:58.589Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a5983e21122be4c32e7e91',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-23T11:59:58.631Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-23T11:59:58.635Z',
+  label: 'payme',
+  metadata: { request: { card_id: '63a5983e21122be4c32e7e91' } }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T12:01:58.340Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:01:58.348Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T12:01:58.378Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:01:58.489Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a598b61e44260a30f715ed',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-23T12:01:58.528Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:01:58.533Z',
+  label: 'payme',
+  metadata: { request: { card_id: '63a598b61e44260a30f715ed' } }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T12:06:05.617Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:06:05.625Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T12:06:05.654Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:06:05.779Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a599ad128a2b4b487eef53',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-23T12:06:05.811Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:06:05.819Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a599ad128a2b4b487eef53',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:06:05.823Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 10000
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T12:08:20.276Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:08:20.283Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T12:08:20.313Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:08:20.495Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a59a34a10754b18425e8c5',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-23T12:08:20.536Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:08:20.542Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a59a34a10754b18425e8c5',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:08:20.545Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 10000
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T12:08:46.711Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:08:46.718Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T12:08:46.753Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:08:46.837Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a59a4e2849de7da86e0d37',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-23T12:08:46.869Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:08:46.874Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a59a4e2849de7da86e0d37',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:08:46.877Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 10000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:08:46.913Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a59a4e2849de7da86e0d37',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a59a4d62178f2575857a7a'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T12:09:36.043Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:09:36.051Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T12:09:36.083Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:09:36.238Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a59a80586e4ebba06cdfac',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-23T12:09:36.276Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:09:36.283Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a59a80586e4ebba06cdfac',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:09:36.286Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 10000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:09:36.324Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a59a80586e4ebba06cdfac',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a59a7f62178f2575857a85'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T12:19:03.200Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:19:03.208Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T12:19:03.237Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:19:03.367Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a59cb7545d2a0effef3540',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-23T12:19:03.408Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:19:03.414Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a59cb7545d2a0effef3540',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:19:03.416Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 20000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:19:03.450Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a59cb7545d2a0effef3540',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a59cb662178f2575857af7'
+    }
+  }
+}

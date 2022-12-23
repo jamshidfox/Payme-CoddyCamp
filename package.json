@@ -1,0 +1,23 @@
+{
+  "name": "payment_service",
+  "version": "1.0.0",
+  "description": "payment service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "payment"
+  ],
+  "author": "sanjar",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.7.0"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8",
+    "winston": "^3.5.0"
+  }
+}

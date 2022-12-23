@@ -1,0 +1,979 @@
+{
+  message: 'User id is required',
+  level: 'error',
+  timestamp: '2022-01-28T09:33:03.945Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'User id is required',
+  level: 'error',
+  timestamp: '2022-01-28T09:33:38.679Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Method not found.',
+  level: 'error',
+  timestamp: '2022-01-28T09:33:57.349Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Method not found.',
+  level: 'error',
+  timestamp: '2022-01-28T09:34:48.494Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'Method not found.',
+  level: 'error',
+  timestamp: '2022-01-28T09:35:04.387Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'callback is not a function',
+  level: 'error',
+  timestamp: '2022-01-28T09:35:35.673Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'callback is not a function',
+  level: 'error',
+  timestamp: '2022-01-28T09:36:43.623Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'user_id_test'
+    }
+  }
+}
+{
+  message: 'User id is required',
+  level: 'error',
+  timestamp: '2022-01-28T10:53:57.209Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cb45b2eb06ab89723ba9',
+      code: '666666'
+    }
+  }
+}
+{
+  message: "Performing an update on the path '_id' would modify the immutable field '_id'",
+  level: 'error',
+  timestamp: '2022-01-28T10:54:36.104Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cb6be3c0d8cc99c99446',
+      code: '666666'
+    }
+  }
+}
+{
+  message: "Performing an update on the path '_id' would modify the immutable field '_id'",
+  level: 'error',
+  timestamp: '2022-01-28T10:55:42.760Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cbaef58ceccc31054185',
+      code: '666666'
+    }
+  }
+}
+{
+  message: "Performing an update on the path '_id' would modify the immutable field '_id'",
+  level: 'error',
+  timestamp: '2022-01-28T10:56:01.087Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cbc01efc5153e447160a',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'cardObj.save is not a function',
+  level: 'error',
+  timestamp: '2022-01-28T11:12:20.431Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'sanjar_id',
+      card_id: '61f3cf949610eee33a1575dd',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Логин пользователя введен неверно',
+  level: 'error',
+  timestamp: '2022-01-28T11:39:08.162Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Сумма платежа меньше допустимой',
+  level: 'error',
+  timestamp: '2022-01-28T11:44:28.743Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Card id is required',
+  level: 'error',
+  timestamp: '2022-01-28T11:44:47.037Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f3d72edff70f7bcec2f903',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '61f3d72e16659999a64dad3a'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-01-28T11:45:40.479Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f3d7634db3f595aea53bea',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '61f3d76416659999a64dad4b'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-01-28T12:06:58.715Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-01-28T12:07:54.751Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-01-28T12:08:07.325Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Чек не найден или оплачен',
+  level: 'error',
+  timestamp: '2022-01-28T12:09:10.323Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f3dae84c4e93bd20413077',
+      user_id: '8027df58-6ea6-43c7-b091-c84c8eedd693',
+      receipt_id: '61f3dc42c84abf840db84457'
+    }
+  }
+}
+{
+  message: 'Card id is required',
+  level: 'error',
+  timestamp: '2022-01-28T13:33:05.885Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'GetCard',
+    request: { card_id: '', user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' }
+  }
+}
+{
+  message: 'Card id is required',
+  level: 'error',
+  timestamp: '2022-01-28T13:34:01.116Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'GetCard',
+    request: { card_id: '', user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' }
+  }
+}
+{
+  message: 'Card id is required',
+  level: 'error',
+  timestamp: '2022-01-28T13:35:22.476Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'GetCard',
+    request: { card_id: '', user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7' }
+  }
+}
+{
+  message: 'No card is found',
+  level: 'error',
+  timestamp: '2022-01-28T13:36:48.861Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'GetCard',
+    request: {
+      card_id: '61f3f0292c8ca9cbce0f4786',
+      user_id: 'c06de38d-3acc-46b3-a979-1f9ea11589b7'
+    }
+  }
+}
+{
+  message: 'There is an error in connecting db (mongodb://payment_service:mongodb@localhost:27017/mongodb): Authentication failed.',
+  level: 'error',
+  timestamp: '2022-01-28T15:11:20.889Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'There is an error in connecting db (mongodb://payment_service:mongodb@localhost:27017/mongodb): Authentication failed.',
+  level: 'error',
+  timestamp: '2022-01-29T07:36:32.646Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'There is an error in connecting db (mongodb://payment_service:mongodb@localhost:27017/mongodb): Authentication failed.',
+  level: 'error',
+  timestamp: '2022-01-29T07:39:37.530Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Cast to ObjectId failed for value "string" (type string) at path "_id" for model "PaymeCard"',
+  level: 'error',
+  timestamp: '2022-01-31T07:19:03.112Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: 'string',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      receipt_id: '61f78d6716659999a64dae73'
+    }
+  }
+}
+{
+  message: 'receipt is not defined',
+  level: 'error',
+  timestamp: '2022-01-31T10:30:10.417Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', 'help' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'receipt is not defined',
+  level: 'error',
+  timestamp: '2022-01-31T10:32:05.329Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', 'help' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'tariff day not found',
+  level: 'error',
+  timestamp: '2022-01-31T10:32:26.950Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', 'help' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'receipt is not defined',
+  level: 'error',
+  timestamp: '2022-01-31T10:32:37.601Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'tariff day not found',
+  level: 'error',
+  timestamp: '2022-01-31T10:32:47.573Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'help', 'QVwhtlx7g' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'receipt is not defined',
+  level: 'error',
+  timestamp: '2022-01-31T10:32:59.746Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ '9VQht_x7R', 'QVwhtlx7g' ],
+      user_id: 'cdd5e06a-0272-44f8-be48-a00a60734857',
+      purchase_id: '7cdd5349-7624-4f94-8cd1-03d3fcaca51c',
+      purchase_type: 'Hello',
+      amount: '20'
+    }
+  }
+}
+{
+  message: 'No card is found',
+  level: 'error',
+  timestamp: '2022-01-31T10:47:23.510Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      card_id: '61f78d8abbbc4e58ea29c63a',
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      receipt_id: '61f7be3b16659999a64daee3'
+    }
+  }
+}
+{
+  message: 'tariff day not found',
+  level: 'error',
+  timestamp: '2022-01-31T10:48:35.200Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'QVwhtlx7g', '9VQht_2x7R' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_id: '4ea61239-86c0-4ad2-a6e9-8912f561f46b',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '10000'
+    }
+  }
+}
+{
+  message: 'purchase_id is required',
+  level: 'error',
+  timestamp: '2022-02-01T06:11:24.438Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_id: '',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Receipt validation failed: purchase_id: Cast to string failed for value "[\n' +
+    "  'ed1f33ef-9b01-4871-b34e-a4d7d2885252',\n" +
+    "  'be160e1a-5490-4791-bd57-727eaa551e8b'\n" +
+    ']" (type Array) at path "purchase_id"',
+  level: 'error',
+  timestamp: '2022-02-01T06:16:17.103Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [
+        'ed1f33ef-9b01-4871-b34e-a4d7d2885252',
+        'be160e1a-5490-4791-bd57-727eaa551e8b'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Receipt validation failed: purchase_id: Cast to string failed for value "[\n' +
+    "  '71da3690-b14f-49bb-a400-19cf537c3a85',\n" +
+    "  '32c0ecf0-52a5-478f-ba3d-44249613bd32'\n" +
+    ']" (type Array) at path "purchase_id"',
+  level: 'error',
+  timestamp: '2022-02-01T06:17:05.702Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [
+        '71da3690-b14f-49bb-a400-19cf537c3a85',
+        '32c0ecf0-52a5-478f-ba3d-44249613bd32'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Receipt validation failed: purchase_id: Cast to string failed for value "[\n' +
+    "  '2a7e7961-f4ff-4c18-84a1-a4dd476a4fcf',\n" +
+    "  'ca2a3ccf-1e22-46f4-a4ab-8fdfa5639ba6'\n" +
+    ']" (type Array) at path "purchase_id"',
+  level: 'error',
+  timestamp: '2022-02-01T06:17:18.791Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [
+        '2a7e7961-f4ff-4c18-84a1-a4dd476a4fcf',
+        'ca2a3ccf-1e22-46f4-a4ab-8fdfa5639ba6'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Receipt validation failed: purchase_id: Cast to string failed for value "[\n' +
+    "  '6f6142f0-1db6-45a3-a9b0-a2c5249a8f14',\n" +
+    "  '6fcc1d11-a145-40f1-8a0e-db3bb8ecebfd'\n" +
+    ']" (type Array) at path "purchase_id"',
+  level: 'error',
+  timestamp: '2022-02-01T06:19:39.746Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [
+        '6f6142f0-1db6-45a3-a9b0-a2c5249a8f14',
+        '6fcc1d11-a145-40f1-8a0e-db3bb8ecebfd'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Receipt validation failed: purchase_id: Cast to string failed for value "[\n' +
+    "  '217d5c71-622a-4098-a0ef-fbe3441ef2cd',\n" +
+    "  'fe19ed74-9e68-4f03-8ebc-65209a5db53c'\n" +
+    ']" (type Array) at path "purchase_id"',
+  level: 'error',
+  timestamp: '2022-02-01T06:20:25.107Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [
+        '217d5c71-622a-4098-a0ef-fbe3441ef2cd',
+        'fe19ed74-9e68-4f03-8ebc-65209a5db53c'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Receipt validation failed: purchase_id: Cast to string failed for value "[\n' +
+    "  '1c68b596-e70e-4072-926b-ff374f7958fb',\n" +
+    "  '6b9b0d67-39cc-4241-8b4e-0c1b4401825e'\n" +
+    ']" (type Array) at path "purchase_id"',
+  level: 'error',
+  timestamp: '2022-02-01T06:20:46.850Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [
+        '1c68b596-e70e-4072-926b-ff374f7958fb',
+        '6b9b0d67-39cc-4241-8b4e-0c1b4401825e'
+      ],
+      tariff_day_ids: [ 'c0AEE9x7g', 'bAAPErx7g' ],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'SUBSCRIPTION',
+      amount: '3000'
+    }
+  }
+}
+{
+  message: 'Request failed with status code 502',
+  level: 'error',
+  timestamp: '2022-02-02T12:32:15.830Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ '29b65bb5-affb-4392-82b2-6882d042f9a5' ],
+      tariff_day_ids: [],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'TVOD',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'Request failed with status code 502',
+  level: 'error',
+  timestamp: '2022-02-02T12:32:27.922Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ '9a64cb0e-b361-415d-847b-7a7cc6f51bb4' ],
+      tariff_day_ids: [],
+      user_id: 'cd485053-aecd-46b3-8dbf-c4e15e05c42c',
+      purchase_type: 'TVOD',
+      amount: '100'
+    }
+  }
+}
+{
+  message: 'document must have an _id before saving',
+  level: 'error',
+  timestamp: '2022-02-07T06:31:24.004Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ 'd2b6c536-786f-48ef-a37b-c5ef21c676a6' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: ''
+    }
+  }
+}
+{
+  message: 'Amount is required',
+  level: 'error',
+  timestamp: '2022-02-12T13:03:29.155Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ '11c9addd-7686-4344-a2b9-80993dfd5943' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'TVOD',
+      amount: '0',
+      name: 'Как приручить дракона 3'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-02-16T11:07:57.980Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ 'e7293851-99c3-4b3d-923d-c46d0f6eb1a5' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: 'est',
+      card_id: '6200bc839a8ca15fd6af8245'
+    }
+  }
+}
+{
+  message: "Cannot access 'receipt' before initialization",
+  level: 'error',
+  timestamp: '2022-02-16T11:08:47.039Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ '3a8134ba-f46d-4b87-bb21-8dfd5e95e624' ],
+      tariff_day_ids: [],
+      user_id: 'd0d6a6da-88f5-4373-8d3b-bdff2b956501',
+      purchase_type: 'SVOD',
+      amount: '2000',
+      name: 'est',
+      card_id: '6200bc839a8ca15fd6af8245'
+    }
+  }
+}
+{
+  message: 'getaddrinfo EAI_AGAIN checkout.test.paycom.uz',
+  level: 'error',
+  timestamp: '2022-03-02T12:23:16.863Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      card_id: '621f61a995f46bff6da634a9',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-03-02T13:32:55.771Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 27331 6478',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Введен неверный код.',
+  level: 'error',
+  timestamp: '2022-03-02T13:33:17.561Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      card_id: '621f720e1a68ca2095549533',
+      code: '666646'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-03-02T13:51:57.401Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 s6478',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-03-02T13:52:06.469Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-03-02T13:52:15.619Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-03-02T13:57:32.066Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '',
+      card_expire: '0399',
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98'
+    }
+  }
+}
+{
+  message: 'Карта не найдена.',
+  level: 'error',
+  timestamp: '2022-03-02T14:26:36.793Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      purchase_id: [ '56f8fdce-de78-4aad-92bd-bdde9633ade0' ],
+      tariff_day_ids: [],
+      user_id: '249d44e8-cd60-4afd-854d-18d33191ac98',
+      purchase_type: 'SVOD',
+      amount: '100',
+      name: 'vel',
+      card_id: '621f61a995f46bff6da634a9'
+    }
+  }
+}
+{
+  message: 'There is an error in connecting db (mongodb://localhost:27017/payment_service): connect ECONNREFUSED ::1:27017',
+  level: 'error',
+  timestamp: '2022-12-23T10:59:04.339Z',
+  label: 'voxe-payment-service',
+  metadata: {}
+}
+{
+  message: 'Operation `paymecards.insertOne()` buffering timed out after 10000ms',
+  level: 'error',
+  timestamp: '2022-12-23T11:41:26.353Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-12-23T11:45:30.943Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a594da683cbea220981a49',
+      code: 666666
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-12-23T11:46:53.962Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a5952d9325f95828a9f7a1',
+      code: 666666
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-12-23T11:47:44.387Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a59560b9bc59bc7b0eccad',
+      code: 666666
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-12-23T11:59:34.019Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'Verify card request',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a598258ca4841737da5037',
+      code: 666666
+    }
+  }
+}
+{
+  message: 'User id is required',
+  level: 'error',
+  timestamp: '2022-12-23T11:59:58.635Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'GetCard',
+    request: { card_id: '63a5983e21122be4c32e7e91' }
+  }
+}
+{
+  message: 'User id is required',
+  level: 'error',
+  timestamp: '2022-12-23T12:01:58.534Z',
+  label: 'voxe-payment-service',
+  metadata: {
+    function: 'GetCard',
+    request: { card_id: '63a598b61e44260a30f715ed' }
+  }
+}
+{
+  message: 'Card id is required',
+  level: 'error',
+  timestamp: '2022-12-23T12:06:05.823Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 10000
+    }
+  }
+}
+{
+  message: 'Card id is required',
+  level: 'error',
+  timestamp: '2022-12-23T12:08:20.545Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 10000
+    }
+  }
+}
