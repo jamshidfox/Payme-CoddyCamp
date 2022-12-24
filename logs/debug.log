@@ -7122,3 +7122,347 @@
     }
   }
 }
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T12:34:23.583Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:34:23.591Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: '63a59ff2f14c4cb91afd0dc3'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T12:34:23.620Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:34:23.705Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '63a59ff2f14c4cb91afd0dc3',
+      card_id: '63a5a04f22818c64d343e0a9',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-23T12:34:23.735Z',
+  label: 'payme',
+  metadata: { request: { user_id: '63a59ff2f14c4cb91afd0dc3' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:34:23.739Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a5a04f22818c64d343e0a9',
+      user_id: '63a59ff2f14c4cb91afd0dc3'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:34:23.742Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '63a59ff2f14c4cb91afd0dc3',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 60000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:34:23.772Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a5a04f22818c64d343e0a9',
+      user_id: '63a59ff2f14c4cb91afd0dc3',
+      receipt_id: '63a5a04e62178f2575857bb0'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T12:38:13.764Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:38:13.772Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 4954 7331 6478',
+      card_expire: '03/99',
+      user_id: '63a59ff2f14c4cb91afd0dc3'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T12:38:13.801Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:38:13.928Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '63a59ff2f14c4cb91afd0dc3',
+      card_id: '63a5a135a32af932d07646fa',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-23T12:38:13.960Z',
+  label: 'payme',
+  metadata: { request: { user_id: '63a59ff2f14c4cb91afd0dc3' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:38:13.965Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a5a135a32af932d07646fa',
+      user_id: '63a59ff2f14c4cb91afd0dc3'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:38:13.967Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '63a59ff2f14c4cb91afd0dc3',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 79000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:38:13.997Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a5a135a32af932d07646fa',
+      user_id: '63a59ff2f14c4cb91afd0dc3',
+      receipt_id: '63a5a13462178f2575857bdf'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T12:38:56.428Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:38:56.435Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: '63a59ff2f14c4cb91afd0dc3'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T12:38:56.464Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:38:56.668Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '63a59ff2f14c4cb91afd0dc3',
+      card_id: '63a5a1605752dcfe17fa9a8d',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-23T12:38:56.702Z',
+  label: 'payme',
+  metadata: { request: { user_id: '63a59ff2f14c4cb91afd0dc3' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:38:56.708Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a5a1605752dcfe17fa9a8d',
+      user_id: '63a59ff2f14c4cb91afd0dc3'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:38:56.710Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '63a59ff2f14c4cb91afd0dc3',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 79000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:38:56.741Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a5a1605752dcfe17fa9a8d',
+      user_id: '63a59ff2f14c4cb91afd0dc3',
+      receipt_id: '63a5a15f62178f2575857be8'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-23T12:39:27.197Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:39:27.205Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-23T12:39:27.233Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:39:27.357Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a5a17f173a25732bd7d774',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-23T12:39:27.395Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:39:27.401Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a5a17f173a25732bd7d774',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:39:27.404Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 79000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-23T12:39:27.442Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a5a17f173a25732bd7d774',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a5a17e62178f2575857bef'
+    }
+  }
+}

@@ -6,10 +6,11 @@ const PaymeSubscriptionService = require("../services/payme");
 //     input: process.stdin,
 //     output: process.stdout
 // })
-const CARD = "8600 4954 7331 6478";
+const CARD = "8600 0691 9540 6311";
 const EXPIRE = "03/99";
-const AMOUNT = 20000;
+const AMOUNT = 79000;
 const USER_ID = "K4TX8jSkwA4visa8chalkHA";
+// const USER_ID = "63a59ff2f14c4cb91afd0dc3";
 const CODE = "666666";
 
 async function PaymeCardProcess(client) {
@@ -35,7 +36,7 @@ async function PaymeCardProcess(client) {
   console.log(response);
   response = await getCard(client, {
     card_id: card_id,
-    user_id: USER_ID
+    user_id: USER_ID,
   });
   console.log(response);
   response = await receiptCreate(client, {
