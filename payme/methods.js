@@ -27,7 +27,7 @@ let Functions = {
           save: true,
         },
       },
-      {
+      { 
         headers: {
           "X-Auth": MERCHANT_ID,
         },

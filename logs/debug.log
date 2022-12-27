@@ -7466,3 +7466,5077 @@
     }
   }
 }
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T08:50:37.722Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T08:50:37.729Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T08:50:37.741Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T08:50:58.696Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T08:50:58.704Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T08:50:58.734Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T08:51:00.872Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a96073f17ea812cc450de3',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T08:51:00.923Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T08:51:00.935Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a96073f17ea812cc450de3',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T08:51:00.938Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 79000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T08:51:01.006Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a96073f17ea812cc450de3',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9607462178f2575863bd0'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T09:24:43.795Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T09:24:43.803Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T09:24:43.811Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T09:24:51.302Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T09:24:51.310Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T09:24:51.339Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T09:24:51.971Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a96863fad074c85eec2aa3',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T09:24:52.592Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T09:24:52.601Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a96863fad074c85eec2aa3',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T09:24:52.608Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 79000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T09:24:53.316Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a96863fad074c85eec2aa3',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9686362178f2575863d68'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T09:48:58.949Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T09:48:58.957Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T09:48:58.967Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T09:53:56.384Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T09:53:56.392Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T09:53:56.399Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T10:05:27.376Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T10:05:27.384Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T10:05:27.419Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T10:05:29.229Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a971e85a6f8896800cb57b',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T10:05:29.473Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T10:05:29.480Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a971e85a6f8896800cb57b',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T10:05:29.483Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 79000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T10:05:29.873Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a971e85a6f8896800cb57b',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a971e862178f2575863f56'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T10:05:49.144Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T10:05:49.153Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T10:05:49.182Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T10:05:50.240Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a971fda07be1ab05a71ab2',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T10:05:50.902Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T10:05:50.912Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a971fda07be1ab05a71ab2',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T10:05:50.916Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 79000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T10:05:51.198Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a971fda07be1ab05a71ab2',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a971fe62178f2575863f5b'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T10:18:10.357Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T10:18:10.365Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T10:18:10.373Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T10:27:58.654Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T10:27:58.661Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T10:27:58.669Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T10:32:37.935Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T10:32:37.942Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T10:32:37.950Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T10:33:07.309Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T10:33:07.316Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T10:33:07.325Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:36:56.719Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:36:56.727Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:36:56.735Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:50:23.340Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:50:23.347Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:50:23.356Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:51:35.176Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:51:35.183Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:51:35.191Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:52:44.221Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:52:44.228Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:52:44.236Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:54:26.713Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:54:26.720Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:54:26.729Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:54:53.383Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:54:53.390Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:54:53.398Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:56:43.517Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:56:43.525Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:56:43.532Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:56:55.642Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:56:55.649Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:56:55.658Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:00.021Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:00.028Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:00.037Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:12.695Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:12.702Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:12.713Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:18.360Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:18.367Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:18.376Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:18.605Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:18.612Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:18.622Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:23.186Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:23.194Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T12:57:23.203Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T14:32:13.882Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T14:32:13.889Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T14:32:13.907Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T14:32:15.618Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T14:32:15.626Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T14:32:15.634Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T14:33:53.571Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T14:33:53.578Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T14:33:53.587Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T14:36:40.509Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T14:36:40.517Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T14:36:40.525Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T14:39:27.134Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T14:39:27.142Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T14:39:27.149Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T14:39:28.603Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T14:39:28.610Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T14:39:28.619Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T14:39:34.958Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T14:39:34.965Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T14:39:34.974Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T14:40:01.307Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T14:40:01.315Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T14:40:01.323Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T14:43:01.723Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T14:43:01.730Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T14:43:01.739Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T14:54:59.363Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T14:54:59.371Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T14:54:59.380Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T14:55:17.836Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T14:55:17.843Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T14:55:17.851Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T14:55:28.124Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T14:55:28.131Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T14:55:28.139Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:06:34.418Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:06:34.425Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:06:34.434Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:09:46.866Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:09:46.873Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:09:46.895Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:14.343Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:14.350Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:14.358Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:17.692Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:17.700Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:17.708Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:22.780Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:22.788Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:22.796Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:26.456Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:26.463Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:26.472Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:51.243Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:51.250Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:10:51.259Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:06.001Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:06.008Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:06.017Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:11.372Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:11.379Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:11.388Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:13.393Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:13.400Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:13.408Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:39.841Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:39.848Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:39.856Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:40.894Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:40.901Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:40.910Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:45.323Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:45.330Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:45.339Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:54.289Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:54.296Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:11:54.304Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:16:30.379Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:16:30.386Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:16:30.395Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:16:33.484Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:16:33.491Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:16:33.499Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:16:43.309Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:16:43.315Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:16:43.324Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:21:08.514Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:21:08.521Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:21:08.550Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:21:09.108Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9bbe5bb9e2df5b300574e',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T15:21:09.151Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:21:09.158Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9bbe5bb9e2df5b300574e',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:21:09.161Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 79000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:21:09.204Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9bbe5bb9e2df5b300574e',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9bbe362178f2575864e50'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:21:31.428Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:21:31.435Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:21:31.442Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:13.260Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:13.267Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:13.275Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:15.114Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:15.121Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:15.130Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:41.967Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:41.974Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:41.982Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:46.105Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:46.112Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:46.121Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:49.966Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:49.974Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:29:49.984Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:06.507Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:06.514Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:06.523Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:11.603Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:11.611Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:11.619Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:17.357Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:17.364Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:17.373Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:24.566Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:24.573Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:24.581Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:38.275Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:38.283Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:38.291Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:54.686Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:54.693Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:30:54.702Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:31:09.013Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:31:09.020Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:31:09.028Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:31:48.517Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:31:48.524Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:31:48.532Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:32:17.657Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:32:17.664Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:32:17.678Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:32:28.768Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '4567 8908 3490 8574',
+      card_expire: '12/5',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Неверный номер карты',
+  level: 'error',
+  timestamp: '2022-12-26T15:32:28.825Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '4567 8908 3490 8574',
+      card_expire: '12/5',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:34:22.407Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:34:22.414Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:34:22.422Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:34:43.356Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:34:43.363Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:34:43.371Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:02.082Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:02.089Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:02.097Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:11.678Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:11.685Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:11.695Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:27.863Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:27.870Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:27.878Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:30.980Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:30.987Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:30.996Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:48.145Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:48.152Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:48.163Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:56.933Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:56.941Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:56.949Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:59.669Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:59.676Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:36:59.684Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:37:03.861Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:37:03.869Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:37:03.877Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:37:17.003Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:37:17.010Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:37:17.018Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:37:53.844Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:37:53.851Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:37:53.859Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:37:55.740Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:37:55.747Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:37:55.755Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:38:01.203Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:38:01.210Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:38:01.218Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:38:02.742Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:38:02.749Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:38:02.757Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:38:04.378Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:38:04.385Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:38:04.393Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:38:35.162Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:38:35.169Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:38:35.177Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:38:36.648Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:38:36.829Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9bffc4222650fbef9c50b',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T15:38:36.880Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:38:36.902Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9bffc4222650fbef9c50b',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:38:36.907Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 99000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:38:36.956Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9bffc4222650fbef9c50b',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9bffb62178f2575864f25'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:39:49.941Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:39:49.948Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:39:49.956Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:40:19.049Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:40:19.256Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9c06351ab899e87078fa9',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T15:40:19.301Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:40:19.317Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9c06351ab899e87078fa9',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:40:19.321Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 99000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:40:19.358Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9c06351ab899e87078fa9',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9c06162178f2575864f3b'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:40:39.218Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:40:39.225Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:40:39.233Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:40:46.909Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:40:46.917Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:40:46.925Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:40:51.868Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:40:51.874Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:40:51.883Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:41:26.379Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:41:26.598Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9c0a65fb9da2152372229',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T15:41:26.640Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:41:26.657Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9c0a65fb9da2152372229',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:41:26.662Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 99000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:41:26.702Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9c0a65fb9da2152372229',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9c0a562178f2575864f49'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:41:35.460Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:41:35.466Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:41:35.474Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:18.111Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:18.119Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:18.127Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:19.936Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:19.943Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:19.951Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:21.241Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:21.248Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:21.256Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:25.040Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:25.048Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:25.056Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:36.768Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:36.775Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:36.783Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:45.083Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:45.089Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:42:45.098Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:43:00.402Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:43:00.410Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:43:00.418Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:43:02.395Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:43:02.402Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:43:02.411Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:43:04.024Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:43:04.032Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:43:04.039Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:43:40.743Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:43:40.750Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:43:40.759Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:43:55.890Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '2232 2222 2222 2222',
+      card_expire: '233',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Данный тип карты не обслуживается.',
+  level: 'error',
+  timestamp: '2022-12-26T15:43:55.955Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '2232 2222 2222 2222',
+      card_expire: '233',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:19.432Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:19.440Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:19.448Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:22.817Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:22.824Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:22.832Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:25.818Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:25.825Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:25.832Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:28.577Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:28.584Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:28.592Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:38.953Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:38.961Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:38.970Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:44.308Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:44.315Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:44.324Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:52.755Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:52.762Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:52.772Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:55.115Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:55.122Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:46:55.131Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:47:00.443Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:47:00.585Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9c1f4b58f3958e736888d',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T15:47:00.623Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:47:00.638Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9c1f4b58f3958e736888d',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:47:00.642Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 99000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:47:00.682Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9c1f4b58f3958e736888d',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9c1f362178f2575864f99'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:34.054Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:34.061Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:34.070Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:38.118Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:38.125Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:38.134Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:43.118Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:43.125Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:43.133Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:44.901Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:44.908Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:44.916Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:47.925Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:47.932Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:47:47.943Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:47:59.596Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6312',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Неверный номер карты',
+  level: 'error',
+  timestamp: '2022-12-26T15:47:59.655Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 0691 9540 6312',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:48:31.151Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:48:31.159Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:48:31.167Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:48:33.644Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:48:33.798Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9c2519c1b3167fc7f517d',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T15:48:33.859Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:48:33.882Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9c2519c1b3167fc7f517d',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:48:33.888Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 99000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:48:33.989Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9c2519c1b3167fc7f517d',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9c25062178f2575864fae'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T15:48:39.955Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 63121',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-12-26T15:48:39.988Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 0691 9540 63121',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T15:48:51.699Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T15:48:51.706Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T15:48:51.714Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:30:18.738Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:30:18.745Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:30:18.754Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:31:05.176Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:31:05.519Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9cc49ef5d8d3861e9aab4',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T16:31:05.556Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:31:05.570Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9cc49ef5d8d3861e9aab4',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:31:05.574Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 99000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:31:05.603Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9cc49ef5d8d3861e9aab4',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9cc4762178f25758651b3'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:33:52.517Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:33:52.524Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:33:52.536Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:33:53.668Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:33:53.675Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:33:53.682Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:33:58.051Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:33:58.058Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:33:58.066Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:00.166Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:00.173Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:00.183Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:03.183Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:03.190Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:03.199Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:05.500Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:05.508Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:05.518Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:21.630Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:21.637Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:21.645Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:34:24.692Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:34:24.893Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9cd106fe4d7858f398a15',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T16:34:24.937Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:34:24.954Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9cd106fe4d7858f398a15',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:34:24.962Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 99000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:34:25.004Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9cd106fe4d7858f398a15',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9cd0f62178f25758651dc'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:58.232Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:58.239Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:34:58.249Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:34:59.862Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:35:00.045Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9cd34a5ff847667081c5e',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T16:35:00.081Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:35:00.092Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9cd34a5ff847667081c5e',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:35:00.097Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 99000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:35:00.134Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9cd34a5ff847667081c5e',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9cd3262178f25758651e4'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:36:26.490Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:36:26.497Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:36:26.505Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:36:30.824Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:36:30.831Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:36:30.840Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:41:20.297Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:41:20.305Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:41:20.313Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:41:34.133Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:41:34.140Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:41:34.147Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:41:46.883Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:41:46.890Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:41:46.898Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:41:48.436Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:41:48.442Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:41:48.453Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:42:29.855Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:42:29.862Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:42:29.872Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:42:48.578Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:42:48.585Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:42:48.593Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:42:54.375Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:42:54.382Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:42:54.392Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:42:59.706Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:42:59.713Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:42:59.722Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:19.385Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:19.392Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:19.401Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:28.284Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:28.291Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:28.299Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:30.520Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:30.527Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:30.540Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:40.689Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:40.697Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:40.705Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:45.582Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:45.590Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:45.598Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:49.217Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:49.225Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:49.234Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:55.967Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:55.974Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:43:55.982Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:44:13.856Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:44:13.982Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9cf5dc233a4a33dcd8b32',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T16:44:14.025Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:44:14.039Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9cf5dc233a4a33dcd8b32',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:44:14.043Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 45000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:44:14.083Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9cf5dc233a4a33dcd8b32',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9cf5c62178f2575865253'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:10.205Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:10.212Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:10.221Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:15.381Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:15.388Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:15.397Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:17.145Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:17.152Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:17.160Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:19.155Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:19.162Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:19.172Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:24.119Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:24.126Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:24.133Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:27.996Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:28.003Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:28.029Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:29.696Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:29.704Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:29.714Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:42.616Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:42.623Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:42.632Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:49.883Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:49.890Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:45:49.898Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:46:55.134Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:46:55.249Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9cfffaf105c4f01375598',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T16:46:55.323Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:46:55.344Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9cfffaf105c4f01375598',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:46:55.350Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 999999
+    }
+  }
+}
+{
+  message: 'Сумма платежа больше допустимой',
+  level: 'error',
+  timestamp: '2022-12-26T16:46:55.393Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 999999
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:47:27.655Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:47:27.662Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:47:27.670Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:47:34.744Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:47:34.942Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9d026406a9c84e57e89c8',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T16:47:35.069Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:47:35.095Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9d026406a9c84e57e89c8',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:47:35.101Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 999999
+    }
+  }
+}
+{
+  message: 'Сумма платежа больше допустимой',
+  level: 'error',
+  timestamp: '2022-12-26T16:47:35.148Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 999999
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:47:58.346Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:47:58.353Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:47:58.361Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:48:00.403Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:48:00.410Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:48:00.419Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:48:02.615Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:48:02.813Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9d042f0dd4fd63775e5c1',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T16:48:02.859Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:48:02.884Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9d042f0dd4fd63775e5c1',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:48:02.890Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 90000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:48:02.931Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9d042f0dd4fd63775e5c1',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9d04162178f2575865284'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:48:16.911Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:48:17.068Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      card_id: '63a9d051f0dd4fd63775e5cf',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T16:48:17.100Z',
+  label: 'payme',
+  metadata: { request: { user_id: 'K4TX8jSkwA4visa8chalkHA' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:48:17.104Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9d051f0dd4fd63775e5cf',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:48:17.106Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 55000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:48:17.137Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9d051f0dd4fd63775e5cf',
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      receipt_id: '63a9d04f62178f2575865288'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:14.371Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: '+998 93 284 84 75'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:14.594Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '+998 93 284 84 75',
+      card_id: '63a9d08af0dd4fd63775e5dd',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:14.706Z',
+  label: 'payme',
+  metadata: { request: { user_id: '+998 93 284 84 75' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:14.711Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9d08af0dd4fd63775e5dd',
+      user_id: '+998 93 284 84 75'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:14.712Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '+998 93 284 84 75',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 55000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:14.900Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9d08af0dd4fd63775e5dd',
+      user_id: '+998 93 284 84 75',
+      receipt_id: '63a9d08962178f2575865294'
+    }
+  }
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:27.332Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: '+998 93 284 84 75'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:27.624Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '+998 93 284 84 75',
+      card_id: '63a9d097f0dd4fd63775e5eb',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:27.689Z',
+  label: 'payme',
+  metadata: { request: { user_id: '+998 93 284 84 75' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:27.705Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9d097f0dd4fd63775e5eb',
+      user_id: '+998 93 284 84 75'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:27.716Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '+998 93 284 84 75',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 689999
+    }
+  }
+}
+{
+  message: 'Сумма платежа больше допустимой',
+  level: 'error',
+  timestamp: '2022-12-26T16:49:27.756Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      user_id: '+998 93 284 84 75',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 689999
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:49:40.897Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:49:40.904Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:49:40.912Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:42.185Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: '+998 93 284 84 75'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:42.457Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '+998 93 284 84 75',
+      card_id: '63a9d0a65e8286d96156f3c4',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:42.542Z',
+  label: 'payme',
+  metadata: { request: { user_id: '+998 93 284 84 75' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:42.561Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9d0a65e8286d96156f3c4',
+      user_id: '+998 93 284 84 75'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:42.576Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '+998 93 284 84 75',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 67000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:49:42.666Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9d0a65e8286d96156f3c4',
+      user_id: '+998 93 284 84 75',
+      receipt_id: '63a9d0a462178f257586529c'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:51:48.984Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:51:48.990Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:51:49.001Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:52:13.599Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: '+998 93 284 84 75'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:52:14.058Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '+998 93 284 84 75',
+      card_id: '63a9d13d5fee3a62d2150475',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-26T16:52:14.139Z',
+  label: 'payme',
+  metadata: { request: { user_id: '+998 93 284 84 75' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:52:14.154Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9d13d5fee3a62d2150475',
+      user_id: '+998 93 284 84 75'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:52:14.158Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '+998 93 284 84 75',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 67000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-26T16:52:14.200Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63a9d13d5fee3a62d2150475',
+      user_id: '+998 93 284 84 75',
+      receipt_id: '63a9d13c62178f25758652bb'
+    }
+  }
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:52:54.021Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:52:54.028Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:52:54.036Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connecting to db: mongodb://localhost:27017/payment_service',
+  level: 'info',
+  timestamp: '2022-12-26T16:54:50.171Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9104',
+  level: 'info',
+  timestamp: '2022-12-26T16:54:50.178Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2022-12-26T16:54:50.188Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {}
+}
+{
+  message: 'Add new card request',
+  level: 'debug',
+  timestamp: '2022-12-27T07:48:04.540Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_number: '8600 0691 9540 6311',
+      card_expire: '03/99',
+      user_id: '+998 93 284 84 75'
+    }
+  }
+}
+{
+  message: 'Verify card request',
+  level: 'debug',
+  timestamp: '2022-12-27T07:48:04.784Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '+998 93 284 84 75',
+      card_id: '63aaa3346e29a91efe0ea42a',
+      code: '666666'
+    }
+  }
+}
+{
+  message: 'Card list response',
+  level: 'debug',
+  timestamp: '2022-12-27T07:48:04.825Z',
+  label: 'payme',
+  metadata: { request: { user_id: '+998 93 284 84 75' } }
+}
+{
+  message: 'Get card request',
+  level: 'debug',
+  timestamp: '2022-12-27T07:48:04.833Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63aaa3346e29a91efe0ea42a',
+      user_id: '+998 93 284 84 75'
+    }
+  }
+}
+{
+  message: 'Create receipt request',
+  level: 'debug',
+  timestamp: '2022-12-27T07:48:04.838Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      user_id: '+998 93 284 84 75',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 88000
+    }
+  }
+}
+{
+  message: 'Pay receipt request',
+  level: 'debug',
+  timestamp: '2022-12-27T07:48:04.887Z',
+  label: 'payme',
+  metadata: {
+    request: {
+      card_id: '63aaa3346e29a91efe0ea42a',
+      user_id: '+998 93 284 84 75',
+      receipt_id: '63aaa33462178f2575867cd4'
+    }
+  }
+}

@@ -977,3 +977,104 @@
     }
   }
 }
+{
+  message: 'Неверный номер карты',
+  level: 'error',
+  timestamp: '2022-12-26T15:32:28.825Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '4567 8908 3490 8574',
+      card_expire: '12/5',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Данный тип карты не обслуживается.',
+  level: 'error',
+  timestamp: '2022-12-26T15:43:55.955Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '2232 2222 2222 2222',
+      card_expire: '233',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Неверный номер карты',
+  level: 'error',
+  timestamp: '2022-12-26T15:47:59.655Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 0691 9540 6312',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Invalid Params.',
+  level: 'error',
+  timestamp: '2022-12-26T15:48:39.988Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'Add new card request',
+    request: {
+      card_number: '8600 0691 9540 63121',
+      card_expire: '03/99',
+      user_id: 'K4TX8jSkwA4visa8chalkHA'
+    }
+  }
+}
+{
+  message: 'Сумма платежа больше допустимой',
+  level: 'error',
+  timestamp: '2022-12-26T16:46:55.393Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 999999
+    }
+  }
+}
+{
+  message: 'Сумма платежа больше допустимой',
+  level: 'error',
+  timestamp: '2022-12-26T16:47:35.148Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      user_id: 'K4TX8jSkwA4visa8chalkHA',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 999999
+    }
+  }
+}
+{
+  message: 'Сумма платежа больше допустимой',
+  level: 'error',
+  timestamp: '2022-12-26T16:49:27.756Z',
+  label: 'coddyCamp-payment-service',
+  metadata: {
+    function: 'ReceiptCreate',
+    request: {
+      user_id: '+998 93 284 84 75',
+      purchase_id: 'purchase_id',
+      purchase_type: 'subscription',
+      amount: 689999
+    }
+  }
+}

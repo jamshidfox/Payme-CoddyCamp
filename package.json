@@ -4,7 +4,7 @@
   "description": "payment service",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "keywords": [
     "payment"
@@ -12,11 +12,13 @@
   "author": "sanjar",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.7.0"
+    "eslint": "^8.7.0",
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "axios": "^0.25.0",
-    "express": "^4.17.2",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "mongoose": "^6.1.8",
     "winston": "^3.5.0"
   }

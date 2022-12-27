@@ -2,9 +2,7 @@
 
 const logger = require("../config/logger");
 const msgs = require("../config/msgs");
-const consts = require("../config/consts");
 const paymeMethods = require("../payme/methods");
-// const grpc = require('grpc')
 const PaymeStorage = require("../storage/payme");
 const TransactionStorage = require("../storage/transaction");
 
@@ -14,6 +12,7 @@ const PaymeSubscriptionService = {
       label: "payme",
       request: call,
     });
+
     try {
       let paymeResponse = await paymeMethods.AddCard(call);
       let payload = {
@@ -161,7 +160,7 @@ const PaymeSubscriptionService = {
       request: call,
     });
     try {
-    //   let card = await PaymeStorage.GetCard(call);
+      //   let card = await PaymeStorage.GetCard(call);
 
       let paymeResponse = await paymeMethods.CreateReceipts(
         parseInt(call.amount) * 100,
@@ -175,13 +174,13 @@ const PaymeSubscriptionService = {
         call.user_id
       );
 
-    //   let pay = await paymeMethods.PayReceipts(
-    //     call.user_id,
-    //     receipt.id,
-    //     card.token
-    //   );
+      //   let pay = await paymeMethods.PayReceipts(
+      //     call.user_id,
+      //     receipt.id,
+      //     card.token
+      //   );
 
-    //   await PaymeStorage.updateReceipt(pay.data.result["receipt"]);
+      //   await PaymeStorage.updateReceipt(pay.data.result["receipt"]);
 
       let transaction_payload = {
         receipt_id: receipt._id,
@@ -247,9 +246,7 @@ const PaymeSubscriptionService = {
       request: call,
     });
     try {
-      let paymeResponse = await paymeMethods.CancelReceipts(
-        call.receipt_id
-      );
+      let paymeResponse = await paymeMethods.CancelReceipts(call.receipt_id);
 
       let response = await PaymeStorage.updateReceipt(
         paymeResponse.data.result["receipt"]

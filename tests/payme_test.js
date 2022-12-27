@@ -6,14 +6,17 @@ const PaymeSubscriptionService = require("../services/payme");
 //     input: process.stdin,
 //     output: process.stdout
 // })
-const CARD = "8600 0691 9540 6311";
-const EXPIRE = "03/99";
-const AMOUNT = 79000;
-const USER_ID = "K4TX8jSkwA4visa8chalkHA";
-// const USER_ID = "63a59ff2f14c4cb91afd0dc3";
+
 const CODE = "666666";
 
-async function PaymeCardProcess(client) {
+async function PaymeCardProcess(client, data) {
+  const {
+    CARD = "8600 0691 9540 6311",
+    EXPIRE = "03/99",
+    USER_ID = "K4TX8jSkwA4visa8chalkHA",
+    AMOUNT = 45000,
+  } = data;
+
   let payload = {
     card_number: CARD,
     card_expire: EXPIRE,
@@ -21,7 +24,7 @@ async function PaymeCardProcess(client) {
   };
 
   let response = await addCard(client, payload);
-  console.log(response);
+  console.log("Add Card response: ", response);
   let card_id = response.card_id;
 
   response = await verifyCard(client, {
@@ -29,6 +32,7 @@ async function PaymeCardProcess(client) {
     card_id: card_id,
     code: CODE,
   });
+
   console.log(response);
   response = await cardList(client, {
     user_id: USER_ID,

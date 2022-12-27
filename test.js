@@ -70,7 +70,7 @@ async function main() {
 
     setTimeout(() => {}, 1000);
   });
-
+  console.log("Here is the Client: ", client);
   await payme_test(client);
 }
 
